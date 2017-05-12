@@ -1,0 +1,3 @@
+[submodule "drone_autopilot"]
+	path = drone_autopilot
+	url = https://github.com/MicahBW/drone_autopilot.git
